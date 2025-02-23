@@ -132,7 +132,7 @@ RANSAC is used to estimate the transformation between images while **eliminating
   ```sh
   python VR_ass1_part2.py
 
-## INPUT AND OUTPUT FILES
+##  INPUT AND OUTPUT FILES
 * Input Images - left.jpg,right.jpg
 * Keypoints - keypoints1.jpg,keypoints2.jpg
 * Matches - matches.jpg
